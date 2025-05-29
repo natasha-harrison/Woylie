@@ -27,12 +27,20 @@ Data:
 3. Harrison et al., 2022. Affordable RFID loggers
 PLOS ONE (https://doi.org/10.1371/journal.pone.027638)
 
-Data;
+Data:
 - Harrison_QuendaRFID.csv
 
 
-4. Harrison et al., in review. The quick and the dead.
+4. Harrison et al., 2025. The quick and the dead: Behavioral plasticity of anti-predator responses in an Endangered mammal. Conservation Science and Practice (https://doi.org/10.1111/csp2.70028)
 
 Data:
 - Quick_and_dead_behavioural_data_20230913.csv
+
+
+
+5. Harrison et al., (2025). Predator exposure and gene flow as tools to facilitate the preservation of anti-predator behaviours in havened mammal populations: Behavioural observations of quenda (Isoodon fusciventer). Animal Behavior.
+
+Data:  
+- all_quenda_behave_ID_20230628.csv
+- Craigie_2022_anon.csv
 
