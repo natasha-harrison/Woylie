@@ -50,7 +50,7 @@ Data:
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-6. Harrison (in review). the influence of behaviour on capture probability in woylies 
+6. Harrison (2025). Bold and the Biased: the influence of behaviour on capture probability in woylies 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Data:
-- agitation_all_anon.csv
+- BoldAndBiased_AgitationData.csv
